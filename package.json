@@ -1,0 +1,19 @@
+{
+  "name": "simple_eth_wallet",
+  "version": "1.0.0",
+  "description": "Simple Ethereum Wallet only for training&amp;testing purposes (Goerli Testnet)",
+  "main": "ERC20_ABI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Alain369/simple_eth_wallet.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alain369/simple_eth_wallet/issues"
+  },
+  "homepage": "https://github.com/Alain369/simple_eth_wallet#readme"
+}
